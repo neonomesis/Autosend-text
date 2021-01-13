@@ -5,7 +5,7 @@ words = input()                 # Your word
 wait = 1                        # Time between execution program
 do = 1                          # Time between repeating words    
 message = 10                    # How menny messages
-upper = (1)                     # By defaul non letters will cange; # (1) all tetters uppercase # (2) all letters lowercase
+upper = ()                     # By defaul non letters will cange; # (1) all tetters uppercase # (2) all letters lowercase
 
 def wordss(words):
     
